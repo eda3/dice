@@ -39,6 +39,8 @@ def main():
     # 合計値を表示
     print(sum)
 
+    print('hogehoge')
+
 
 '''
     try:
